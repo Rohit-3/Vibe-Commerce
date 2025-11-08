@@ -144,6 +144,10 @@ frontend/
 - Fake Store API integration
 - Responsive design
 
+## Screenshots
+
+Screenshots of the application are available in the `/screenshots` folder.
+
 ## Demo Video
 
 Create a 1-2 minute demo video showing:
